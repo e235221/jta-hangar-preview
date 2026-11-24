@@ -6,7 +6,7 @@
 
 ## Usage
 
-GitHub Pagesで公開する配信ファイルです。ローカルで確認する場合は、このディレクトリで `python3 -m http.server 8080` を実行し、`http://localhost:8080/` を開いてください。
+[GitHub Pagesの公開サイト](https://e235221.github.io/jta-hangar-preview/)を開きます。ローカルで確認する場合は、このディレクトリで `python3 -m http.server 8080` を実行し、`http://localhost:8080/` を開いてください。
 
 写真はスクロールに合わせて中央へズームします。続く2枚の写真は同じ表示サイズで、縦スクロールに合わせて横へ切り替わります。動きを減らす設定では静止表示になります。
 
